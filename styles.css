@@ -6,6 +6,11 @@
 body{
     font-family: "Outfit", sans-serif;
 }
+@media (max-width:768px) {
+    body{
+    font-family: "Outfit", sans-serif;
+    }
+}
 .mainbox{
     display: flex;
     justify-content: center;
